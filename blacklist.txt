@@ -32,3 +32,10 @@
 *://techacademy.jp/*
 /.*udemy.*/
 *://www.sejuku.net/*
+*://*.game8.jp/*
+*://*.gameinn.jp/*
+*://*.gamepedia.jp/*
+*://*.gamerch.com/*
+*://*.gamesink.net/*
+*://*.gamewith.jp/*
+*://*.gamy.jp/*
